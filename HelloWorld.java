@@ -35,13 +35,5 @@
 public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello, World");
-    System.out.println("good evening");
-    System.out.println("Have a great day");
-    System.out.println("Hello, World");
-    System.out.println("Hello, World");
-    System.out.println("Hello, World");
-    System.out.println("Hello, World");
-    System.out.println("Hello, World");
-    System.out.println("Hello, World");
   }
 }
